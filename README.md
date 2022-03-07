@@ -7,4 +7,5 @@ The electronic control is realized on a common SPI bus and controllable with a U
 We have also developed a version controllable with a Raspberry pi 4.
 Attached to the project, the schematics of the electronic boards and the python script for the Raspberry pi4 and the serial link.
 A main.c code is also visible and developed under composer studio 10 code to control the ARM of Texas instrument, the TIVA TM4C1294.
+![ezcv logo](https://github.com/fabzz60/Cmod-A7-Horloge-Demo-/blob/main/design_horloge_numerique.jpg)
 
